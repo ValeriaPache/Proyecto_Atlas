@@ -3,8 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
-.firstContainer{
+.containerHeader{
     background-image: url(../images/banner-bk.jpg);
     width: 100%;
     height: 40rem;   
+}
+.containerHeader > .firstContainer{
+    width: 100%;
+    height: 7rem;
+    display: flex;
+    justify-content: space-between;
+}
+.firstContainer > .subContainerHeader1{
+    width: 10%;
+    height: 6rem;
+}
+.subContainerHeader1 > .imgHeader{
+    width: 6rem;
+    height: 6rem;
+}
+.firstContainer > .subContainerHeader2{
+    width: 10%;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+}
+.subContainerHeader2 > .firstTittle{
+    color: #fafffd;
 }
