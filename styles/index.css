@@ -7,15 +7,15 @@
     background-image: url(../images/banner-bk.jpg);
     width: 100%;
     height: 40rem; 
+    padding-left: 10%;
 }
-.containerHeader > .firstContainer{
-    width: 100%;
+.containerHeader > .firstContainerHeader{
+    width: 90%;
     height: 7rem;
     display: flex;
     justify-content: space-between;
-    justify-content: space-around;
 }
-.firstContainer > .subContainerHeader1{
+.firstContainerHeader > .subContainerHeader1{
     width: 10%;
     height: 6rem;
 }
@@ -23,8 +23,8 @@
     width: 6rem;
     height: 6rem;
 }
-.firstContainer > .subContainerHeader2{
-    width: 10%;
+.firstContainerHeader > .subContainerHeader2{
+    width: 15%;
     height: 6rem;
     display: flex;
     align-items: center;
@@ -32,11 +32,51 @@
 .subContainerHeader2 > .firstTittle{
     color: #fafffd;
 }
-
-.tittleBig{
-    font-size: 70px;
-    color: #fafffd;
-}
 .subTittleMini{
     color: #fafffd;
+}
+.secondContainerHeader{
+    width: 90%;
+    height: 25rem;
+}
+.secondContainerHeader > .subContainerHeader3{
+    width: 90%;
+    height: 18rem;
+    display: flex;
+    align-items: center;
+}
+.subContainerHeader3 > .tittleBig{
+    color: #fafffd;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondContainerHeader > .subContainerHeader4{
+    width: 90%;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+}
+.subContainerHeader4 > .subTittleMini{
+    color: #fafffd;
+    font-size: 19px;
+    font-family: serif;
+}
+.thirdContainerHeader{
+    width: 90%;
+    height: 5rem;
+}
+.thirdContainerHeader > .buttonContainer{
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+}
+.buttonContainer > .firstButton{
+    width: 12%;
+    height: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    color: #070a6e;
+    background-color: #16d148;
+    border-radius: 35%;
 }
