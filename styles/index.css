@@ -78,13 +78,12 @@
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
+    background-color: #00ffad;
 }
                        /* Aqui empezamos con el primer contenedor del body*/
 .contentBody{
     width: 100%;
     height: 120rem;
-    background-color: brown;
 }
 
 .firstContainerBody{
@@ -252,11 +251,11 @@
 .containerButton2_1 > .button2_1{
     padding: 15px 25px;
     background-color: #2d47ff;
-    color:#10066f;
+    color: #f2f1f0;
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
+    background-color: #192440;
 }
 .cont2_1 > .secondSubcontainer2{
     width: 45%;
@@ -320,11 +319,11 @@
 .containerButton2_4 > .button2_4{
     padding: 15px 25px;
     background-color: #2d47ff;
-    color:#10066f;
+    color:#f2f1f0;
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
+    background-color: #192440;
 }
 
                                /*Iniciamos con el tercer contenedor del body*/
@@ -407,12 +406,13 @@
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#b7c3b5 0%, #dde6e0 100%);
+    background-color: #ffffff;
+    border: 2px solid #61687c;
 }
 .cont3_2 > .thirdSubcontainer2{
     width: 20%;
     height: 20rem;
-    background-color: #160a5c;
+    background-color: #192440;
 }
 .thirdSubcontainer2 > .containerValor3_3{
     width: 100%;
@@ -423,6 +423,7 @@
 }
 .letter2{
     font-size: 70px;
+    color: #ffffff;
 }
 .thirdSubcontainer2 > .containerText3_3{
     width: 100%;
@@ -444,7 +445,7 @@
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
+    background-color: #00ffad;
 }
 .thirdSubcontainer2 > .containerSubTittle3_3 {
     width: 100%;
@@ -456,7 +457,10 @@
 .containerSubTittle3_3 > .tittle3_3{
     font-size: 24px;
     font-family: serif;
-    color: white;
+    color: #ffffff;
+}
+.changeColor{
+    color: #ffffff;
 }
 .cont3_2 > .thirdSubcontainer3{
     width: 20%;
@@ -504,7 +508,8 @@
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#b7c3b5 0%, #dde6e0 100%);
+    background-color: #ffffff;
+    border: 2px solid #eceeef;
 }
 .thridContainerBody > .cont3_1{
     width: 100%;
@@ -644,19 +649,19 @@
     flex-direction: column;
 }
 label{
-    color: #00cec3;
+    color: #00ffad;
     font-size: 25px;
 }
 input{
     width: 40%;
     height: 2rem;
-    border-color: #00cec3;
+    border-color: #00ffad;
     background-color: transparent;
 }
 textarea{
     width: 40%;
     height: 2rem;
-    border-color: #00cec3;
+    border-color: #00ffad;
     background-color: transparent;
 }
 .cont5_1 > .subContainer5_3{
@@ -676,7 +681,7 @@ textarea{
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(180deg,#8cfff3 0%, #00cec3 100%);
+    background-color: #00ffad;
 }
 
                                /*Iniciamos el  último contenedor del footer*/
@@ -709,6 +714,6 @@ textarea{
     height: 3rem; 
     background-color: #dde6e0;
     border-radius: 50%;
-    border-color: #030630;
+    border-color: #192440;
     border: 1px solid rgb(55, 55, 180);
 }
