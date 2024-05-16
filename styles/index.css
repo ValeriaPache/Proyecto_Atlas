@@ -578,7 +578,6 @@
 .containerFooter > .fourtContainerBody{
     width: 95%;
     height: 40rem;
-    background-color: cadetblue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -587,12 +586,10 @@
 .fourtContainerBody > .cont4_1{
     width: 40%;
     height: 25rem;
-    background-color: chartreuse;
 }
 .cont4_1 > .tittle_4_1{
     width: 100%;
     height: 5rem;
-    background-color: burlywood;
     color: white;
     font-size: 45px;
     display: flex;
@@ -601,7 +598,6 @@
 .cont4_1 > .text4_1{
     width: 100%;
     height: 9rem;
-    background-color: rgb(31, 3, 25);
     color: white;
     font-size: 20px;
     display: flex;
@@ -611,20 +607,17 @@
     list-style:none;
     width: 100%;
     height: 9rem;
-    background-color: rgb(176, 111, 162);
     color: white;
     font-size: 20px;
 }
 .fourtContainerBody > .cont5_1{
     width: 40%;
     height: 25rem;
-    background-color: chartreuse;
 }
 .subContainer5_1{
     list-style:none;
     width: 100%;
     height: 14rem;
-    background-color: chocolate;
 }
 .subContainer5_1 > .subCont5_1{
     width: 100%;
@@ -632,12 +625,10 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: #10066f;
 }
 .subContainer5_1 > .subCont5_2{
     width: 100%;
     height: 7rem;
-    background-color: #2d47ff;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -647,7 +638,6 @@
     list-style:none;
     width: 100%;
     height: 7rem;
-    background-color: yellow;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -660,16 +650,17 @@ input{
     width: 40%;
     height: 2rem;
     border-color: #00cec3;
+    background-color: transparent;
 }
 textarea{
     width: 40%;
     height: 2rem;
     border-color: #00cec3;
+    background-color: transparent;
 }
 .cont5_1 > .subContainer5_3{
     width: 100%;
     height: 4rem;
-    background-color: #b7c3b5;  
 }
 .subContainer5_3 > .containerButtom5_1{
     width: 100%;
