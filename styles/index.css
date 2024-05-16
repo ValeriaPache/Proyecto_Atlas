@@ -573,7 +573,7 @@
     background-image: url(../images/contact-bk.jpg);
     width: 100%;
     height: 40rem; 
-    padding-left: 5%;
+    
 }
 .containerFooter > .fourtContainerBody{
     width: 95%;
@@ -582,6 +582,7 @@
     align-items: center;
     justify-content: center;
     justify-content: space-around;
+    padding-left: 5%;
 }
 .fourtContainerBody > .cont4_1{
     width: 40%;
@@ -670,10 +671,44 @@ textarea{
     align-items: center;
 }
 .containerButtom5_1 > .button5_1{
-    padding: 10px 215px;
+    padding: 10px 190px;
     color:#10066f;
     border: none;
     border-radius: 7px;
     cursor: pointer;
     background: linear-gradient(180deg,#8cfff3 0%, #00cec3 100%);
+}
+
+                               /*Iniciamos el  último contenedor del footer*/
+.fourtContainerBodyFinally{
+    width: 100%;
+    height: 5rem;
+    background-color: #030630;
+    display: flex;
+    align-items: center;
+}
+.fourtContainerBodyFinally > .finally1{
+    width: 70%;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+}
+.textFinally{
+    color: white;
+}
+.fourtContainerBodyFinally > .finally2{
+    width: 20%;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.finally2 > .imgIcon{
+    width: 3rem;
+    height: 3rem; 
+    background-color: #dde6e0;
+    border-radius: 50%;
+    border-color: #030630;
+    border: 1px solid rgb(55, 55, 180);
 }
