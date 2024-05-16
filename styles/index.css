@@ -214,12 +214,10 @@
 .secondContainerBody > .cont2_0{
     width: 95%;
     height: 40rem;
-    background-color: #070a6e;
 }
 .cont2_0 > .cont2_1{
     width: 100%;
     height: 20rem;
-    background-color: cadetblue;
     display: flex;
     justify-content: space-around;
     padding-top: 1rem;
@@ -227,12 +225,10 @@
 .cont2_1 > .secondSubcontainer1{
     width: 45%;
     height: 18rem;
-    background-color: aqua;
 }
 .secondSubcontainer1 > .subTittle2_1{
     width: 100%;
     height: 5rem;
-    background-color: palevioletred;
     font-size: 26px;
     font-family: serif;
     display: flex;
@@ -242,7 +238,6 @@
 .secondSubcontainer1 > .text2_1{
     width: 100%;
     height: 6rem;
-    background-color: yellow;
     font-size: 19px;
     font-family: serif;
     display: flex;
@@ -253,8 +248,6 @@
 .secondSubcontainer1 > .containerButton2_1{
     width: 100%;
     height: 3rem;
-    background-color: rgb(216, 157, 112);
-
 }
 .containerButton2_1 > .button2_1{
     width: 25%;
@@ -270,12 +263,10 @@
 .cont2_1 > .secondSubcontainer2{
     width: 45%;
     height: 18rem;
-    background-color: aqua;
 }
 .secondSubcontainer2 > .img2_2{
     width: 100%;
     height: 16rem;
-    background-color: goldenrod;
 }
 .img2_2 > .img22{
     width: 100%;
@@ -285,35 +276,29 @@
 .cont2_0 > .cont2_2{
     width: 100%;
     height: 20rem;
-    background-color: cadetblue;
     display: flex;
     justify-content: space-around;
 }
 .cont2_2 > .secondSubcontainer3{
     width: 45%;
     height: 18rem;
-    background-color: aqua;
 }
 .secondSubcontainer3 > .img2_3{
     width: 100%;
     height: 16rem;
-    background-color: goldenrod;
 }
 .img2_3 > .img23{
     width: 100%;
     height: 16rem;
-
 }
 
 .cont2_2 > .secondSubcontainer4{
     width: 45%;
     height: 18rem;
-    background-color: aqua;
 }
 .secondSubcontainer4 > .subTittle2_4{
     width: 100%;
     height: 5rem;
-    background-color: palevioletred;
     font-size: 26px;
     font-family: serif;
     display: flex;
@@ -323,7 +308,6 @@
 .secondSubcontainer4 > .text2_4{
     width: 100%;
     height: 6rem;
-    background-color: yellow;
     font-size: 19px;
     font-family: serif;
     display: flex;
@@ -334,8 +318,6 @@
 .secondSubcontainer4 > .containerButton2_4{
     width: 100%;
     height: 3rem;
-    background-color: rgb(216, 157, 112);
-
 }
 .containerButton2_4 > .button2_4{
     width: 25%;
