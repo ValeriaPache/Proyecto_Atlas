@@ -83,7 +83,7 @@
                        /* Aqui empezamos con el primer contenedor del body*/
 .contentBody{
     width: 100%;
-    height: 140rem;
+    height: 120rem;
     background-color: brown;
 }
 
@@ -258,8 +258,6 @@
     cursor: pointer;
     background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
 }
-
-
 .cont2_1 > .secondSubcontainer2{
     width: 45%;
     height: 18rem;
@@ -568,4 +566,17 @@
 .subContainer4_6 > .img4_6{
     width: 100%;
     height: 4rem;
+}
+                               /*Iniciamos el contenedor del footer*/
+
+.containerFooter{
+    background-image: url(../images/contact-bk.jpg);
+    width: 100%;
+    height: 40rem; 
+    padding-left: 5%;
+}
+.containerFooter > .fourtContainerBody{
+    width: 95%;
+    height: 40rem;
+    background-color: cadetblue;
 }
