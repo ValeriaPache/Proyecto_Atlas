@@ -335,22 +335,22 @@
     width: 100%;
     height: 40rem; 
     background-color: white;
-    padding-left: 5%;
 }
 .thridContainerBody > .cont3_0{
-    width: 95%;
-    height: 40rem;
+    width: 100%;
+    height: 33rem;
     background-color: olive;
     padding-left: 5%;
     padding-top: 3rem;
 }
 .cont3_0 > .thirdSubcontainer0{
     width: 95%;
-    height: 5rem;
+    height: 4rem;
     background-color: darkolivegreen;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-left: 5%;
 }
 .thirdSubcontainer0 > .subTittle3_1{
     font-size: 40px;
@@ -359,7 +359,7 @@
 }
 .cont3_0 > .cont3_2{
     width: 95%;
-    height: 25rem;
+    height: 22rem;
     background-color: fuchsia;
     display: flex;
     justify-content: center;
@@ -527,4 +527,72 @@
     border-radius: 7px;
     cursor: pointer;
     background: linear-gradient(180deg,#b7c3b5 0%, #dde6e0 100%);
+}
+.thridContainerBody > .cont3_1{
+    width: 100%;
+    height: 7rem;
+    background-color: #dcd5ff;
+}
+.cont3_1 > .thirdSubcontainer4{
+    width: 100%;
+    height: 6rem;
+    background-color: #575bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.thirdSubcontainer4 > .subContainer4_1{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_1 > .img4_1{
+    width: 100%;
+    height: 4rem;
+}
+.thirdSubcontainer4 > .subContainer4_2{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_1 > .img4_2{
+    width: 100%;
+    height: 4rem;  
+}
+.thirdSubcontainer4 > .subContainer4_3{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_3 > .img4_3{
+    width: 100%;
+    height: 4rem;  
+}
+.thirdSubcontainer4 > .subContainer4_4{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_4 > .img4_4{
+    width: 100%;
+    height: 4rem;
+}
+.thirdSubcontainer4 > .subContainer4_5{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_5 > .img4_5{
+    width: 100%;
+    height: 4rem;
+}
+.thirdSubcontainer4 > .subContainer4_6{
+    width: 10%;
+    height: 5rem;
+    background-color: yellow;
+}
+.subContainer4_6 > .img4_6{
+    width: 100%;
+    height: 4rem;
 }
