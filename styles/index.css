@@ -579,4 +579,110 @@
     width: 95%;
     height: 40rem;
     background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fourtContainerBody > .cont4_1{
+    width: 40%;
+    height: 25rem;
+    background-color: chartreuse;
+}
+.cont4_1 > .tittle_4_1{
+    width: 100%;
+    height: 5rem;
+    background-color: burlywood;
+    color: white;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+}
+.cont4_1 > .text4_1{
+    width: 100%;
+    height: 9rem;
+    background-color: rgb(31, 3, 25);
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.cont4_1 > .list4_1{
+    list-style:none;
+    width: 100%;
+    height: 9rem;
+    background-color: rgb(176, 111, 162);
+    color: white;
+    font-size: 20px;
+}
+.fourtContainerBody > .cont5_1{
+    width: 40%;
+    height: 25rem;
+    background-color: chartreuse;
+}
+.subContainer5_1{
+    list-style:none;
+    width: 100%;
+    height: 14rem;
+    background-color: chocolate;
+}
+.subContainer5_1 > .subCont5_1{
+    width: 100%;
+    height: 7rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #10066f;
+}
+.subContainer5_1 > .subCont5_2{
+    width: 100%;
+    height: 7rem;
+    background-color: #2d47ff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.subContainer5_2{
+    list-style:none;
+    width: 100%;
+    height: 7rem;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+label{
+    color: #00cec3;
+    font-size: 25px;
+}
+input{
+    width: 40%;
+    height: 2rem;
+    border-color: #00cec3;
+}
+textarea{
+    width: 40%;
+    height: 2rem;
+    border-color: #00cec3;
+}
+.cont5_1 > .subContainer5_3{
+    width: 100%;
+    height: 4rem;
+    background-color: #b7c3b5;  
+}
+.subContainer5_3 > .containerButtom5_1{
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerButtom5_1 > .button5_1{
+    padding: 10px 215px;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#8cfff3 0%, #00cec3 100%);
 }
