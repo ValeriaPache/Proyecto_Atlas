@@ -72,13 +72,13 @@
     align-items: center;
 }
 .buttonContainer > .firstButton{
-    width: 12%;
-    height: 3rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 1000;
-    color: #070a6e;
-    background-color: #16d148;
-    border-radius: 35%;
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
 }
                        /* Aqui empezamos con el primer contenedor del body*/
 .contentBody{
@@ -250,13 +250,13 @@
     height: 3rem;
 }
 .containerButton2_1 > .button2_1{
-    width: 25%;
-    height: 2.5rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 1000;
-    color: #070a6e;
-    background-color: #16d148;
-    border-radius: 35%;
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
 }
 
 
@@ -320,13 +320,13 @@
     height: 3rem;
 }
 .containerButton2_4 > .button2_4{
-    width: 25%;
-    height: 2.5rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 1000;
-    color: #070a6e;
-    background-color: #16d148;
-    border-radius: 35%;
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
 }
 
                                /*Iniciamos con el tercer contenedor del body*/
@@ -348,11 +348,14 @@
     width: 95%;
     height: 5rem;
     background-color: darkolivegreen;
-    font-size: 26px;
-    font-family: serif;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.thirdSubcontainer0 > .subTittle3_1{
+    font-size: 40px;
+    font-family: serif;
+    color: #160a5c;
 }
 .cont3_0 > .cont3_2{
     width: 95%;
@@ -368,13 +371,160 @@
     height: 20rem;
     background-color: aliceblue;
 }
+.thirdSubcontainer1 > .containerSubTittle3_2 {
+    width: 100%;
+    height: 2rem;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerSubTittle3_2 > .tittle3_2{
+    font-size: 24px;
+    font-family: serif;
+    color: #160a5c;
+}
+.thirdSubcontainer1 > .containerValor3_2{
+    width: 100%;
+    height: 5rem;
+    background-color: #16d148;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.letter1{
+    font-size: 70px;
+}
+.thirdSubcontainer1 > .containerText3_2{
+    width: 100%;
+    height: 8rem;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thirdSubcontainer1 > .containerButtom3_2{
+    width: 100%;
+    height: 4rem;
+    background-color: #575bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerButtom3_2 > .button3_2{
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#b7c3b5 0%, #dde6e0 100%);
+}
 .cont3_2 > .thirdSubcontainer2{
     width: 20%;
     height: 20rem;
-    background-color: aliceblue;
+    background-color: #160a5c;
+}
+.thirdSubcontainer2 > .containerValor3_3{
+    width: 100%;
+    height: 5rem;
+    background-color: #16d148;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.letter2{
+    font-size: 70px;
+}
+.thirdSubcontainer2 > .containerText3_3{
+    width: 100%;
+    height: 8rem;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thirdSubcontainer2 > .containerButtom3_3{
+    width: 100%;
+    height: 4rem;
+    background-color: #575bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerButtom3_3 > .button3_3{
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#269f11 0%, #013c13 100%);
+}
+.thirdSubcontainer2 > .containerSubTittle3_3 {
+    width: 100%;
+    height: 2rem;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerSubTittle3_3 > .tittle3_3{
+    font-size: 24px;
+    font-family: serif;
+    color: white;
 }
 .cont3_2 > .thirdSubcontainer3{
     width: 20%;
     height: 20rem;
     background-color: aliceblue;
+}
+.thirdSubcontainer3 > .containerSubTittle3_4 {
+    width: 100%;
+    height: 2rem;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerSubTittle3_4 > .tittle3_4{
+    font-size: 24px;
+    font-family: serif;
+    color: #160a5c;
+}
+.thirdSubcontainer3 > .containerValor3_4{
+    width: 100%;
+    height: 5rem;
+    background-color: #16d148;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.letter3{
+    font-size: 70px;
+}
+.thirdSubcontainer3 > .containerText3_4{
+    width: 100%;
+    height: 8rem;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thirdSubcontainer3 > .containerButtom3_4{
+    width: 100%;
+    height: 4rem;
+    background-color: #575bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerButtom3_4 > .button3_4{
+    padding: 15px 25px;
+    background-color: #2d47ff;
+    color:#10066f;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(180deg,#b7c3b5 0%, #dde6e0 100%);
 }
