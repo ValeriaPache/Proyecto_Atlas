@@ -207,7 +207,7 @@
 .secondContainerBody{
     width: 100%;
     height: 40rem; 
-    background-image: linear-gradient(to bottom right, white 39%, #00ffad 20%); 
+    background-image: linear-gradient(to bottom right, white 39%, #00ffad 20%   ); 
     padding-left: 5%;
 }
 .secondContainerBody > .cont2_0{
