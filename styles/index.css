@@ -207,7 +207,8 @@
 .secondContainerBody{
     width: 100%;
     height: 40rem; 
-    background-image: linear-gradient(to bottom right, white 39%, #00ffad 20%   ); 
+    background: linear-gradient(165deg, white 35%, #00ffad 35%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     padding-left: 5%;
 }
 .secondContainerBody > .cont2_0{
@@ -326,6 +327,7 @@
     background-color: #192440;
 }
 
+
                                /*Iniciamos con el tercer contenedor del body*/
 
 .thridContainerBody{
@@ -345,7 +347,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 5%;
 }
 .thirdSubcontainer0 > .subTittle3_1{
     font-size: 40px;
