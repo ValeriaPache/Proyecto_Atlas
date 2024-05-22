@@ -510,12 +510,15 @@
     border-radius: 7px;
     cursor: pointer;
     background-color: #ffffff;
-    border: 2px solid #eceeef;
+    border: 2px solid #61687c;
 }
 .thridContainerBody > .cont3_1{
     width: 100%;
     height: 7rem;
     background-color: #dcd5ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .cont3_1 > .thirdSubcontainer4{
     width: 100%;
@@ -530,7 +533,7 @@
     height: 5rem;
 }
 .subContainer4_1 > .img4_1{
-    width: 100%;
+    width: 90%;
     height: 4rem;
 }
 .thirdSubcontainer4 > .subContainer4_2{
@@ -538,7 +541,7 @@
     height: 5rem;
 }
 .subContainer4_1 > .img4_2{
-    width: 100%;
+    width: 90%;
     height: 4rem;  
 }
 .thirdSubcontainer4 > .subContainer4_3{
@@ -546,7 +549,7 @@
     height: 5rem;
 }
 .subContainer4_3 > .img4_3{
-    width: 100%;
+    width: 90%;
     height: 4rem;  
 }
 .thirdSubcontainer4 > .subContainer4_4{
@@ -554,7 +557,7 @@
     height: 5rem;
 }
 .subContainer4_4 > .img4_4{
-    width: 100%;
+    width: 90%;
     height: 4rem;
 }
 .thirdSubcontainer4 > .subContainer4_5{
@@ -562,7 +565,7 @@
     height: 5rem;
 }
 .subContainer4_5 > .img4_5{
-    width: 100%;
+    width: 90%;
     height: 4rem;
 }
 .thirdSubcontainer4 > .subContainer4_6{
@@ -570,7 +573,7 @@
     height: 5rem;
 }
 .subContainer4_6 > .img4_6{
-    width: 100%;
+    width: 90%;
     height: 4rem;
 }
                                /*Iniciamos el contenedor del footer*/
