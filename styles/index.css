@@ -367,7 +367,8 @@
 }
 .cont3_2 > .thirdSubcontainer1{
     width: 20%;
-    height: 20rem;
+    height: 21rem;
+    padding-top: 1rem;
 }
 .thirdSubcontainer1 > .containerSubTittle3_2 {
     width: 100%;
@@ -400,7 +401,7 @@
     flex-direction: column;
 }
 .containerText3_2 > .pStartup{
-    padding-top: 1rem;
+    padding-top: 0.7rem;
 }
 .thirdSubcontainer1 > .containerButtom3_2{
     width: 100%;
@@ -421,8 +422,9 @@
 }
 .cont3_2 > .thirdSubcontainer2{
     width: 20%;
-    height: 20rem;
+    height: 21rem;
     background-color: #192440;
+    padding-top: 1rem;
 }
 .thirdSubcontainer2 > .containerValor3_3{
     width: 100%;
@@ -444,7 +446,7 @@
     flex-direction: column;
 }
 .containerText3_3 > .pPremium{
-    padding-top: 1rem;
+    padding-top: 0.7rem;
     color: white;
 }
 .thirdSubcontainer2 > .containerButtom3_3{
@@ -480,7 +482,7 @@
 }
 .cont3_2 > .thirdSubcontainer3{
     width: 20%;
-    height: 20rem;
+    height: 21rem;
 }
 .thirdSubcontainer3 > .containerSubTittle3_4 {
     width: 100%;
@@ -488,6 +490,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 1rem;
 }
 .containerSubTittle3_4 > .tittle3_4{
     font-size: 24px;
@@ -513,7 +516,7 @@
     flex-direction: column;
 }
 .containerText3_4 > .pProfessional{
-    padding-top: 1rem;
+    padding-top: 0.7rem;
 }
 .thirdSubcontainer3 > .containerButtom3_4{
     width: 100%;
