@@ -397,6 +397,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.containerText3_2 > .pStartup{
+    padding-top: 1rem;
 }
 .thirdSubcontainer1 > .containerButtom3_2{
     width: 100%;
@@ -404,6 +408,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 1rem;
 }
 .containerButtom3_2 > .button3_2{
     padding: 15px 25px;
@@ -436,6 +441,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.containerText3_3 > .pPremium{
+    padding-top: 1rem;
+    color: white;
 }
 .thirdSubcontainer2 > .containerButtom3_3{
     width: 100%;
@@ -443,6 +453,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 1rem;
 }
 .containerButtom3_3 > .button3_3{
     padding: 15px 25px;
@@ -499,6 +510,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.containerText3_4 > .pProfessional{
+    padding-top: 1rem;
 }
 .thirdSubcontainer3 > .containerButtom3_4{
     width: 100%;
@@ -506,6 +521,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 1rem;
 }
 .containerButtom3_4 > .button3_4{
     padding: 15px 25px;
