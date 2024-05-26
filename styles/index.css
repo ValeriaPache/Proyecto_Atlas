@@ -141,6 +141,7 @@
     font-size: 19px;
     font-family: serif;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center; 
 }
@@ -170,6 +171,7 @@
     font-size: 19px;
     font-family: serif;
     display: flex;
+     text-align: center;
     justify-content: center;
     align-items: center; 
 }
@@ -200,6 +202,7 @@
     font-size: 19px;
     font-family: serif;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center; 
 }
